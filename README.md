@@ -1,1 +1,2 @@
-# canny_edge_detector
+# canny edge detector
+progetto di principi e modelli della percezione
